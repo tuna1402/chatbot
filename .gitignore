@@ -1,0 +1,5 @@
+/rag/
+/.myenv/
+/.pytest_cache/
+test_app.py
+rag_test.py
